@@ -1,9 +1,10 @@
 <html>
 
-<h2 style="font-size:50px;">Mesh-Hackathon 2022</h2> <br>
+<h1>Mesh-Hackathon 2022</h1> <br>
 Challenge Sustainabilty: Nachhaltiges Girokonto <br>
-Gruppe <br>
+Challenge Setter: LBBW <br>
+Gruppenname: S07 <br>
 Teilnehmer: Marvin Schmid, Alexander Pleli, Finn Wählt <br>
-Anhänge: mesh-banking.pptx <br>
+<a href="https://google.com">Anhänge: mesh-banking.pptx<a> <br>
 
 </html>
