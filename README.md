@@ -13,7 +13,7 @@ LBBW goes sustainable
 
 # Kurzbeschreibung der Solution und PowerPoint-Präsentation mit den Schlüsselbotschaften
 
-Revolutioniertes Banking, basierend auf einem "gestaffelten Kostenmodell, einem All in One System und Sustainability Rewards".
+Revolutioniertes Banking, basierend auf einem "gestaffelten Kostenmodell, einem All in One System und Sustainability Payback".
 
 Anhänge: /mockups, pitch_EcoGrowth.pdf
 
