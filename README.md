@@ -14,6 +14,8 @@ LBBW goes sustainable
 
 Revolutioniertes Banking, basierend auf einem "gestaffelten Kostenmodell, einem All in One System und Sustainability Rewards".
 
+Anhänge: /mockups, 
+
 # Name des Teams und der einzelnen Teammitglieder
 
 SO7 / Marvin Schmid, Alexander Pleli, Finn Wählt
