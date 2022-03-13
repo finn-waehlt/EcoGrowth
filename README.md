@@ -1,4 +1,4 @@
-# mesh22-S07
+# EcoGrowth
 
 Sustainability-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
 
