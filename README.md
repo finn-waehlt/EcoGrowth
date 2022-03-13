@@ -14,7 +14,7 @@ LBBW goes sustainable
 
 Revolutioniertes Banking, basierend auf einem "gestaffelten Kostenmodell, einem All in One System und Sustainability Payback".
 
-Anhänge: /mockups, pitch_EcoGrowth.pdf
+Anhänge: /mockups, pitch_EcoGrowth.pdf, pitch_EcoGrowth.pptx
 
 # Name des Teams und der einzelnen Teammitglieder
 
