@@ -3,11 +3,11 @@
 Sustainability-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
 
 # Titel der Solution
-
+![Wallpaper](Mockups/Wallpaper.PNG)
 ---
 
 # Slogan der Solution
-![Wallpaper](Mockups/Wallpaper.PNG)
+
 
 LBBW goes sustainable
 
