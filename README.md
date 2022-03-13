@@ -4,16 +4,16 @@ Sustainability-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stut
 
 # Titel der Solution
 
-Titel
+---
 
 # Slogan der Solution
 
-Slogan
+LBBW goes sustainable
 
 # Kurzbeschreibung der Solution und PowerPoint-Präsentation mit den Schlüsselbotschaften
 
-Solution / Prototyp Link / Documentation / Beschreibung
+Revolutioniertes Banking, basierend auf einem "gestaffelten Kostenmodell, einem All in One System und Sustainability Rewards".
 
 # Name des Teams und der einzelnen Teammitglieder
 
-Teamname / Teammitglieder*innen
+SO7 / Marvin Schmid, Alexander Pleli, Finn Wählt
