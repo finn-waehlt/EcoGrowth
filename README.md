@@ -1,12 +1,13 @@
 # EcoGrowth
 
 Sustainability-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
-![Wallpaper](Mockups/Wallpaper.PNG)
+
 # Titel der Solution
 
 ---
 
 # Slogan der Solution
+![Wallpaper](Mockups/Wallpaper.PNG)
 
 LBBW goes sustainable
 
