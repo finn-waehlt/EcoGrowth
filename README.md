@@ -14,8 +14,14 @@ LBBW goes sustainable
 
 Revolutioniertes Banking, basierend auf einem "gestaffelten Kostenmodell, einem All in One System und Sustainability Payback".
 
+![Wallpaper](Mockups/mockups_mit_erklärung/Folie9.PNG)
+![Wallpaper](Mockups/mockups_mit_erklärung/Folie10.PNG)
+![Wallpaper](Mockups/mockups_mit_erklärung/Folie11.PNG)
+![Wallpaper](Mockups/mockups_mit_erklärung/Folie12.PNG)
+
 Anhänge: /mockups, pitch_EcoGrowth.pdf, pitch_EcoGrowth.pptx
 
 # Name des Teams und der einzelnen Teammitglieder
 
 SO7 / Marvin Schmid, Alexander Pleli, Finn Wählt
+
