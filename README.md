@@ -1,4 +1,4 @@
-# mesh-hackathon-example-submission
+# mesh22-S07
 
 Sustainability-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
 
