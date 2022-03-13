@@ -1,7 +1,7 @@
 # EcoGrowth
 
 Sustainability-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
-
+![Wallpaper](Mockups/Wallpaper.PNG)
 # Titel der Solution
 
 ---
